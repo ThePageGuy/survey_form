@@ -8,7 +8,7 @@ Survey form to collect data from users to send suggestions to freeCodeCamp.
 
 ## Demo
 
-Link
+[Link](https://thepageguy.github.io/survey_form/)
 
 ## Author
 
